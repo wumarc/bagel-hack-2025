@@ -1,0 +1,55 @@
+{
+    "events": [
+      {
+        "id": "e133",
+        "name": "AI Hackathon",
+        "mainCommunities": [
+          { "name": "Education/Student/Unemployed", "count": 4 },
+          { "name": "Tech/Engineering/Civil", "count": 3 },
+          { "name": "Tech Engineer/Software Engineer", "count": 3 },
+          { "name": "Healthcare/Pharmacy/Medical", "count": 3 },
+          { "name": "Tech Editor/Sub", "count": 2 },
+          { "name": "Business/Tele", "count": 2 }
+        ]
+      },
+      {
+        "id": "e189",
+        "name": "Tech Symposium 2025",
+        "mainCommunities": [
+          { "name": "Science/Scientist/Manager", "count": 5 },
+          { "name": "Tech Engineer/Software Engineer", "count": 5 },
+          { "name": "Tech Editor/Sub", "count": 3 },
+          { "name": "Education/Student/Unemployed", "count": 3 },
+          { "name": "Healthcare/Pharmacy/Medical", "count": 2 },
+          { "name": "Business/Tele", "count": 1 },
+          { "name": "Tech Engineering/Civil", "count": 1 }
+        ]
+      },
+      {
+        "id": "e114",
+        "name": "Annual Blockchain Workshop 2025",
+        "mainCommunities": [
+          { "name": "Education/Student/Unemployed", "count": 6 },
+          { "name": "Science/Scientist/Manager", "count": 6 },
+          { "name": "Tech Engineering/Civil", "count": 4 },
+          { "name": "Tech Engineer/Software Engineer", "count": 4 },
+          { "name": "Business/Tele", "count": 3 },
+          { "name": "Tech Editor/Sub", "count": 1 },
+          { "name": "Healthcare/Pharmacy/Medical", "count": 1 }
+        ]
+      },
+      {
+        "id": "e122",
+        "name": "Healthcare Meetup 2025",
+        "mainCommunities": [
+          { "name": "Tech Editor/Sub", "count": 4 },
+          { "name": "Tech Engineering/Civil", "count": 3 },
+          { "name": "Education/Student/Unemployed", "count": 3 },
+          { "name": "Tech Engineer/Software Engineer", "count": 3 },
+          { "name": "Healthcare/Pharmacy/Medical", "count": 1 },
+          { "name": "Science/Scientist/Manager", "count": 1 }
+        ]
+      }
+    ]
+  }
+  

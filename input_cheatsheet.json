@@ -1,0 +1,194 @@
+{
+    "events": [
+      {
+        "id": "e133",
+        "name": "AI Hackathon",
+        "description": "The AI Hackathon brings together programmers, data enthusiasts, and creative minds to build innovative artificial intelligence solutions. Expect team-based challenges, mentor guidance, and networking sessions that connect newbies and experts alike.",
+        "connection highlights": [
+          {
+            "name": "Eva Greene",
+            "cheatsheet": "Eva studied Chemistry at the B.Sc level and is currently between jobs, with a strong interest in research and some experience handling legal matters under pressure.",
+            "whyConnect": "She’s well-connected at the hackathon, making her a perfect first contact if you’re looking to meet a variety of participants quickly."
+          },
+          {
+            "name": "Mia Thompson",
+            "cheatsheet": "Mia has a B.Sc in Microbiology, blending a fascination for technology with a passion for human health. She also excels in leadership, teamwork, and public speaking.",
+            "whyConnect": "Her perspective on merging biology and tech could lead to fresh AI insights, and she’s well-positioned to make introductions across various teams."
+          },
+          {
+            "name": "Priya Singh",
+            "cheatsheet": "Another B.Sc in Microbiology grad focusing on technology and healthcare. She’s skilled in design, writing, and teamwork.",
+            "whyConnect": "She shares Mia’s breadth of connections, so you can bounce interdisciplinary ideas around or simply get introduced to interesting new contacts."
+          },
+          {
+            "name": "Ray Johnson",
+            "cheatsheet": "A software engineer with a B.Sc in IT, Ray is strong in critical thinking and active listening.",
+            "whyConnect": "Ray serves as a bridge between tech-focused connection highlights and those from non-technical backgrounds, helping you navigate the hackathon’s diverse crowd."
+          },
+          {
+            "name": "Taylor Chen",
+            "cheatsheet": "A creative with a diploma in video editing but a keen interest in teaching and entrepreneurship.",
+            "whyConnect": "Taylor can help you explore educational angles for AI or connect you with entrepreneurial teams looking to commercialize their hackathon projects."
+          }
+        ],
+        "Event Time Line": [
+          { "time": "9:00 AM", "activity": "Registration & Coffee" },
+          { "time": "9:30 AM", "activity": "Opening Remarks & Hackathon Rules" },
+          { "time": "10:00 AM", "activity": "Team Formation & Idea Brainstorming" },
+          { "time": "12:30 PM", "activity": "Lunch Break" },
+          { "time": "1:30 PM", "activity": "Coding Sprint (Mentor Rounds)" },
+          { "time": "4:00 PM", "activity": "Checkpoint Presentations" },
+          { "time": "6:00 PM", "activity": "Dinner & Informal Networking" },
+          { "time": "8:00 PM", "activity": "Late-Night Coding Continues" },
+          { "time": "(Next Day) 10:00 AM", "activity": "Final Presentations & Awards" }
+        ]
+      },
+      {
+        "id": "e189",
+        "name": "Tech Symposium 2025",
+        "description": "The Tech Symposium is a yearly gathering of innovators, entrepreneurs, and researchers showcasing the latest in technology. Panel discussions, product demos, and hands-on workshops offer connection highlights a glimpse into cutting-edge developments across various fields.",
+        "connection highlights": [
+          {
+            "name": "Josie Gardner",
+            "cheatsheet": "A B.Sc Mathematics student currently between jobs, Josie is interested in news coverage and has strong communication and leadership skills.",
+            "whyConnect": "Josie’s social nature helps her link you to top conversations and influential figures quickly—ideal if you’re trying to meet a range of people."
+          },
+          {
+            "name": "Sophia Martin",
+            "cheatsheet": "An Assistant Manager with a B.Sc in Biotechnology, Sophia excels at merging research, marketing, and people management.",
+            "whyConnect": "Sophia can show you how to blend scientific insights with business strategy, giving you a leg up on commercializing your tech ideas."
+          },
+          {
+            "name": "Elena Park",
+            "cheatsheet": "Another Assistant Manager with a B.Sc in Biotechnology, Elena has overlapping leadership and communication skills.",
+            "whyConnect": "She’s influential in biotech circles and a valuable resource if you need deeper industry contacts or guidance in scientific ventures."
+          },
+          {
+            "name": "Natalie Carter",
+            "cheatsheet": "Like Sophia and Elena, Natalie is an Assistant Manager with a biotech background, adept at turning theory into practice.",
+            "whyConnect": "She’s part of the 'Science/Manager' group—perfect for introductions to people at the forefront of tech-business collaborations."
+          },
+          {
+            "name": "Carmen Alvarez",
+            "cheatsheet": "A B.Sc Mathematics student with ambitions to teach, Carmen also shows strong leadership and communication skills.",
+            "whyConnect": "Carmen’s focus on education makes her a great ally for anyone looking to improve training programs or academic outreach in the tech space."
+          }
+        ],
+        "Event Time Line": [
+          { "time": "8:30 AM", "activity": "Registration & Networking Breakfast" },
+          { "time": "9:00 AM", "activity": "Opening Keynote: 'The Future of Tech'" },
+          { "time": "10:00 AM", "activity": "Panel Discussion: Emerging Biotech Trends" },
+          { "time": "11:30 AM", "activity": "Startup Pitches & Demos" },
+          { "time": "1:00 PM", "activity": "Lunch Break & Expo Booth Visits" },
+          { "time": "2:00 PM", "activity": "Workshops (Choose Your Track)" },
+          { "time": "4:00 PM", "activity": "Fireside Chat: 'Scaling Your Innovation'" },
+          { "time": "5:00 PM", "activity": "Networking Mixer & Appetizers" },
+          { "time": "6:30 PM", "activity": "Closing Remarks & End of Day" }
+        ]
+      },
+      {
+        "id": "e114",
+        "name": "Annual Blockchain Workshop 2025",
+        "description": "Focused on decentralization and distributed ledger technology, the Blockchain Workshop dives into real-world use cases, from supply chain management to crypto-finance. connection highlights can join hands-on demos, keynote talks, and group discussions.",
+        "connection highlights": [
+          {
+            "name": "Kelsey White",
+            "cheatsheet": "A biotech student who’s into research, entrepreneurship, and technology; excels at analytical and problem-solving tasks.",
+            "whyConnect": "Kelsey’s all-round curiosity about blockchain, biotech, and startups makes her a fantastic partner for cross-industry brainstorming."
+          },
+          {
+            "name": "Sydney Brooks",
+            "cheatsheet": "A B.Sc Mathematics graduate passionate about media coverage, with strong leadership and problem-solving skills.",
+            "whyConnect": "Sydney can offer insights into how blockchain is perceived publicly and help brainstorm ways to engage mainstream audiences."
+          },
+          {
+            "name": "Amara Collins",
+            "cheatsheet": "An Assistant Manager with a B.Sc in Biotechnology, adept at blending scientific knowledge with business acumen.",
+            "whyConnect": "Amara can guide you on integrating blockchain solutions into biotech processes, bridging lab research and commercial reality."
+          },
+          {
+            "name": "Devin Ward",
+            "cheatsheet": "A lecturer with a background in Electronics and Communication, specializing in data analytics and programming.",
+            "whyConnect": "If you want a deeper dive into the technical layers of blockchain—especially data analytics—Devin is your go-to mentor for clarity and guidance."
+          },
+          {
+            "name": "Omar Patel",
+            "cheatsheet": "A Design Engineer combining chemistry expertise with a passion for research, teaching, and tech.",
+            "whyConnect": "Omar has an engineer’s perspective on blockchain innovation—talk to him for fresh ideas on product design or workflow improvements."
+          },
+          {
+            "name": "Marisa Phillips",
+            "cheatsheet": "Another Assistant Manager from a biotech background, mirroring many of Amara’s business and communication skills.",
+            "whyConnect": "Marisa has a comparable biotech–blockchain focus, offering more opportunities to expand your network in this niche space."
+          }
+        ],
+        "Event Time Line": [
+          { "time": "9:00 AM", "activity": "Registration & Light Breakfast" },
+          { "time": "9:30 AM", "activity": "Welcome Address: 'Blockchain’s Global Potential'" },
+          { "time": "10:00 AM", "activity": "Expert Panel: Decentralized Finance (DeFi)" },
+          { "time": "11:30 AM", "activity": "Breakout Sessions: Supply Chain, Healthcare, Fintech" },
+          { "time": "1:00 PM", "activity": "Lunch & Networking" },
+          { "time": "2:00 PM", "activity": "Technical Workshops (Smart Contracts, DApps)" },
+          { "time": "4:30 PM", "activity": "Roundtable Discussion: Future of Blockchain Regulation" },
+          { "time": "5:30 PM", "activity": "Social Hour & Informal Demos" },
+          { "time": "7:00 PM", "activity": "Day One Wrap-Up" }
+        ]
+      },
+      {
+        "id": "e122",
+        "name": "Healthcare Meetup 2025",
+        "description": "This meetup gathers healthcare professionals, tech developers, and policy advocates keen on innovating the medical sector. Workshops, breakout sessions, and networking help participants discover cutting-edge solutions to modern healthcare challenges.",
+        "connection highlights": [
+          {
+            "name": "Dana Sinclair",
+            "cheatsheet": "An Assistant Manager with a B.Sc in Biotechnology, covering research, marketing, and teaching interests.",
+            "whyConnect": "Dana acts as a central connector—she knows most of the major healthcare players, ensuring you can quickly find the specialists you need."
+          },
+          {
+            "name": "Declan Hughes",
+            "cheatsheet": "A B.Sc in Statistics who works as an Assistant System Engineer, exploring finance, machine learning, and social causes.",
+            "whyConnect": "He’s your best bet if you want to brainstorm data-heavy healthcare solutions, whether that’s predictive analytics or streamlining hospital logistics."
+          },
+          {
+            "name": "Eva Ruiz",
+            "cheatsheet": "A math student currently unemployed, but strongly interested in news coverage and skilled in communication.",
+            "whyConnect": "She bridges the gap between healthcare topics and media outreach; perfect if you need advice on how to promote or explain complex health innovations."
+          },
+          {
+            "name": "Cole Davis",
+            "cheatsheet": "A Sub Editor with a background in Physics, focusing on news coverage and social justice.",
+            "whyConnect": "Cole’s editorial lens helps you frame healthcare breakthroughs in ways the public can appreciate, ensuring your message is clear and impactful."
+          },
+          {
+            "name": "Jonah Mitchell",
+            "cheatsheet": "Another Sub Editor (Physics grad) driven by social justice and content creation.",
+            "whyConnect": "Jonah can help you refine how you communicate health issues, whether it’s for the public or for institutional stakeholders."
+          },
+          {
+            "name": "Avery Price",
+            "cheatsheet": "Also a Sub Editor with physics roots, sharing interests in news and creative content.",
+            "whyConnect": "Avery completes the editorial trio, giving you multiple avenues to shape and share your healthcare stories effectively."
+          }
+        ],
+        "Event Time Line": [
+          { "time": "8:00 AM", "activity": "Registration & Morning Coffee" },
+          { "time": "8:30 AM", "activity": "Welcome & Keynote: 'Reimagining Healthcare Tech'" },
+          { "time": "9:30 AM", "activity": "Roundtable: Patient-Centered Innovation" },
+          { "time": "11:00 AM", "activity": "Breakout Sessions (AI in Healthcare, Policy & Ethics)" },
+          { "time": "12:30 PM", "activity": "Lunch & Networking" },
+          { "time": "1:30 PM", "activity": "Lightning Talks: New Healthtech Startups" },
+          { "time": "3:00 PM", "activity": "Panel Discussion: Future of Healthcare Communication" },
+          { "time": "4:30 PM", "activity": "Networking Mixer & Snacks" },
+          { "time": "6:00 PM", "activity": "Event Closes" }
+        ]
+      }
+    ],
+    "notFoundEvents": [
+      "e75",
+      "e98",
+      "e9",
+      "e70",
+      "e11"
+    ]
+  }
+  

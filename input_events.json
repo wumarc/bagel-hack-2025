@@ -1,0 +1,86 @@
+[
+  {
+    "user_summary": "I'm a tech entrepreneur looking for AI and blockchain events to find potential investors and partners.",
+    "summary_index": 1,
+    "filtered_events": [
+      {
+        "event_title": "AI Hackathon - 2025-07-06 - Quebec City, Canada",
+        "reason": "This is an AI event in Quebec City, which is targeted towards entrepreneurs looking to stay current in the cybersecurity landscape. Given that you are an entrepreneur yourself, and you mentioned you were interested in AI and cybersecurity, this event could have potential investors and partners attending, and is hence highly relevant.",
+        "relevance_score": 95,
+        "event_id": "e133"
+      },
+      {
+        "event_title": "Tech Symposium 2025 - 2025-02-26 - Quebec City, Canada",
+        "reason": "This is an exclusive event to discuss the future of blockchain technology, and it happens to be in Quebec City, Canada. Assuming you're looking for blockchain events, this event would be a good fit for networking with industry leaders.",
+        "relevance_score": 90,
+        "event_id": "e189"
+      },
+      {
+        "event_title": "Annual Blockchain Workshop 2025 - 2025-08-20 - Toronto, Canada",
+        "reason": "This is a definitive event for anyone looking to stay ahead in the blockchain landscape, and will likely attract many entrepreneurs and investors under the same niche. The event is held in Toronto, Canada.",
+        "relevance_score": 85,
+        "event_id": "e114"
+      }
+    ]
+  },
+  {
+    "user_summary": "I'm a researcher in healthcare informatics seeking events where I can learn about the latest applications of big data in medicine.",
+    "summary_index": 2,
+    "filtered_events": [
+      {
+        "event_title": "Annual Education Symposium - 2024-11-20 - Calgary, Canada",
+        "reason": "This symposium covers digital transformation, healthtech, and data analytics, making it an excellent fit for learning about big data in medicine. It also provides opportunities for networking with experts and thought leaders in this field.",
+        "relevance_score": 95,
+        "event_id": "e75"
+      },
+      {
+        "event_title": "Healthcare Meetup 2025 - 2025-03-23 - Winnipeg, Canada",
+        "reason": "This event covers a variety of topics, including quantum computing, virtual reality, and computer vision, which are all rapidly emerging fields in healthcare innovation. It invites professionals to share insights and network.",
+        "relevance_score": 90,
+        "event_id": "e122"
+      },
+      {
+        "event_title": "Advanced Healthcare Hackathon 2024 - 2024-12-25 - Halifax, Canada",
+        "reason": "This hackathon is centered around the latest advancements in data science technologies and innovations, making it a perfect fit for learning about big data applications in medicine. It will also offer opportunities to network with experts in this domain.",
+        "relevance_score": 85,
+        "event_id": "e98"
+      }
+    ]
+  },
+  {
+    "user_summary": "I'm a UX designer interested in networking with others in the design and tech community, especially in the fintech industry.",
+    "summary_index": 3,
+    "filtered_events": [
+      {
+        "event_title": "Design 2024",
+        "reason": "This is an excellent fit for the UX designer interested in fintech. The focus of this design conference is on transforming finance with topics on virtual reality, ethical AI, and digital marketing. \n\nEvent #2: Finance Summit\nReason: The Finance Summit is a perfect networking opportunity to discuss the future of design specifically in robotics, computer vision, and the metaverse. \n\nEvent #3: Design Forum\nReason: Design Forum's focus on cybersecurity will have many insights relevant to UX design in fintech, with topics on edge computing and digital transformation. \n\nHere are the relevance scores for each event:\nEvent #1: Design 2024",
+        "relevance_score": 95,
+        "event_id": "e9"
+      }
+    ]
+  },
+  {
+    "user_summary": "I work in cybersecurity and want to find events to keep up with emerging threats and network with other security professionals.",
+    "summary_index": 4,
+    "filtered_events": [
+      {
+        "event_title": "Cybersecurity Meetup - 2024-05-16 - Halifax, Canada",
+        "reason": "This is a topical cybersecurity event in the right time frame that focuses on relevant topics such as the future of work and quantum computing. It's a good bet that other attendees will be cybersecurity professionals, and the focus on emerging trends will help you keep up with emerging threats.",
+        "relevance_score": 95,
+        "event_id": "e70"
+      },
+      {
+        "event_title": "Cybersecurity Meetup - 2025-05-17 - Halifax, Canada",
+        "reason": "This event is focused on the future of work and emerging trends, which is a good match for someone looking to stay ahead in the field of cybersecurity. The location and date are also suitable.",
+        "relevance_score": 90,
+        "event_id": "e70"
+      },
+      {
+        "event_title": "Cybersecurity Workshop 2025 - 2025-02-24 - Vancouver, Canada",
+        "reason": "This is an in-depth workshop which will give you a chance to learn and interact with other like-minded professionals, and the focus on evolving tech means there will be overlap with other cybersecurity professionals.",
+        "relevance_score": 85,
+        "event_id": "e111"
+      }
+    ]
+  }
+]
